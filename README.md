@@ -1,6 +1,6 @@
 # Documentação de Tarefas (Backlog)
 
-Este documento contém 120 tarefas para o desenvolvimento e evolução do projeto `solid_arch_turma_6`, utilizando **Node.js, Mongoose e MongoDB**.
+Este documento contém 240 tarefas para o desenvolvimento e evolução do projeto `solid_arch_turma_6`, utilizando **Node.js, Mongoose e MongoDB**.
 A estrutura do projeto atual é baseada em **Clean Architecture, TDD e Princípios SOLID**.
 
 A escala de pontuação (story points) segue a sequência de Fibonacci adaptada: **3, 5, 8, 13, 21, 35 e 54**.
